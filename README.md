@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Vishi 👋
 
-<!--
-**VishiAgarwal15/VishiAgarwal15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Product Owner Intern working on AI-powered accessibility platforms  
+🎓 MS in Project Management (Northeastern University)  
+💡 Interested in Product, Accessibility, AI workflows, and Agile delivery
 
-Here are some ideas to get you started:
+### What I work on
+- Product backlogs & roadmaps
+- MVP scope definition
+- Agile execution & dependency management
+- Accessibility (WCAG) platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Project
+🚀 a11yFORGE Engine – WAS, GAIA, KASHA
+
+📫 Connect with me on LinkedIn
+-->https://www.linkedin.com/in/vishi-agarwal/
