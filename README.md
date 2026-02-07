@@ -1,17 +1,19 @@
 ## Hi, I'm Vishi 👋
 
 🎯 Product Owner Intern working on AI-powered accessibility platforms  
-🎓 MS in Project Management (Northeastern University)  
-💡 Interested in Product, Accessibility, AI workflows, and Agile delivery
+🎓 MS in Project Management – Northeastern University  
+💡 Interested in Product Strategy, Accessibility, AI workflows, and Agile delivery
 
 ### What I work on
-- Product backlogs & roadmaps
-- MVP scope definition
-- Agile execution & dependency management
-- Accessibility (WCAG) platforms
+- Product backlogs, epics, and roadmaps
+- MVP scope definition and prioritization
+- Dependency and risk management
+- Accessibility platforms aligned to WCAG standards
 
 ### Current Project
-🚀 a11yFORGE Engine – WAS, GAIA, KASHA
+🚀 a11yFORGE Engine – WAS, GAIA, KASHA  
+End-to-end accessibility detection, decision intelligence, and workflow execution.
 
-📫 Connect with me on LinkedIn
--->https://www.linkedin.com/in/vishi-agarwal/
+📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/YOUR-LINK-HERE](https://www.linkedin.com/in/vishi-agarwal/))
+
+
