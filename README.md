@@ -14,6 +14,7 @@
 🚀 a11yFORGE Engine – WAS, GAIA, KASHA  
 End-to-end accessibility detection, decision intelligence, and workflow execution.
 
-📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/YOUR-LINK-HERE](https://www.linkedin.com/in/vishi-agarwal/))
+📫 Connect with me on [LinkedIn] 
+https://www.linkedin.com/in/vishi-agarwal/
 
 
